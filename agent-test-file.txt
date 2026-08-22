@@ -1,0 +1,6 @@
+# Agent test file
+
+This file was added for testing purposes by a Cursor Cloud Agent.
+It can be safely deleted at any time.
+
+Created: 2026-08-22
